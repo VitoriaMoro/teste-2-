@@ -4,7 +4,7 @@ import numpy as np
 
 st.write("""
 # My first app
-Realize o seu cadastro para futuras pesquisas da FGV!*
+Realize o seu cadastro para participar de futuras pesquisas da FGV Rio!*
 """)
 st.text_input("Digite seu nome:")
 st.text_input("Digite o seu sobrenome:")
